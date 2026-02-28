@@ -2,7 +2,7 @@ Artificial-Leetcode-Problems
 
 AI generated problems based on Leetcode questions, that I solved using appropriate algorithms
 
-1. Crypto Trading Bot Project
+1. Crypto Trading Bot Project  [CryptoBot]
    
     Demonstration of two pointer technique
 
@@ -14,7 +14,7 @@ AI generated problems based on Leetcode questions, that I solved using appropria
     Language: C#
     Pattern: Two-Pointer Technique
 
-3. Art Palette Optimizer
+3. Art Palette Optimizer [Art-Color-Optimizer]
    
     A passion project In digital art. This engine finds a perfect color balance from a database of pigments.
 
