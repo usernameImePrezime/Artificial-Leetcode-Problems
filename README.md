@@ -1,4 +1,4 @@
-[Artificial-Leetcode-Problems]
+Artificial-Leetcode-Problems
     Ai generated problem that I solved using algorithms
 
 1. Crypto Trading Bot Project
