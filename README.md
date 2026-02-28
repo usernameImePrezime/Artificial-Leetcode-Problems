@@ -16,7 +16,8 @@ AI generated problems based on Leetcode questions, that I solved using appropria
 
 3. Art Palette Optimizer [Art-Color-Optimizer](https://github.com/usernameImePrezime/Artificial-Leetcode-Problems/blob/main/Art-Color-Optimizer/project.cs)
    
-    A passion project In digital art. This engine finds a perfect color balance from a database of pigments.
+    A passion project In digital art.
+    This engine finds a perfect color balance from a database of pigments.
 
     Features:
     Optimized from a naive O(n4) to O(n3) using Sorting and Two-Pointers.
