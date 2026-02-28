@@ -1,5 +1,5 @@
 # [Artificial-Leetcode-Problems]
-ai generated problem that I solved using algorithms
+    Ai generated problem that I solved using algorithms
 
 1. Crypto Trading Bot Project
     Demonstration of two pointer technique
