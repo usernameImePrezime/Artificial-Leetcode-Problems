@@ -1,7 +1,9 @@
 Artificial-Leetcode-Problems
-    Ai generated problem that I solved using algorithms
+
+AI generated problems based on Leetcode questions, that I solved using appropriate algorithms
 
 1. Crypto Trading Bot Project
+   
     Demonstration of two pointer technique
 
     Features:
@@ -13,6 +15,7 @@ Artificial-Leetcode-Problems
     Pattern: Two-Pointer Technique
 
 3. Art Palette Optimizer
+   
     A passion project In digital art. This engine finds a perfect color balance from a database of pigments.
 
     Features:
